@@ -76,6 +76,6 @@ public class usuarioModel {
     public String toString() {
         return "usuarioModel [id=" + id + ", nombre=" + nombre + ", email=" + email + ", prioridad=" + prioridad + "]";
     } 
-    
+
     
 }
